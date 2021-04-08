@@ -1,7 +1,7 @@
 # fcc-survey-form
 Simple survey form with HTML5 and CSS
 
-Challenge (clone) project made for Responsive Web Design Certification at freeCodeCamp.
+Challenge project made for Responsive Web Design Certification at freeCodeCamp.
 
 ## Assignment
 
